@@ -29,6 +29,10 @@ public class Sportiv extends Persoana{
 
         }
 
+        public void mananca(){
+            System.out.println("Sportivul mananca dupa antrenament.");
+        }
+
     public String getSport() {
         return sport;
     }

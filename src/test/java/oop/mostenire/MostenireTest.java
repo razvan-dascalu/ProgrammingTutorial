@@ -15,6 +15,13 @@ public class MostenireTest {
         System.out.println(angajat.getVarsta());
         angajat.setVarsta(21);
         System.out.println(angajat.getVarsta());
+        angajat.mananca();
+
+        angajat.marire();
+        angajat.marire(10);
+        angajat.marire("engineer");
+        angajat.marire(10,"engineer");
+
 
 
 

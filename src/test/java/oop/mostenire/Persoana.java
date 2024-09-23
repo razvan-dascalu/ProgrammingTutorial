@@ -13,6 +13,15 @@ public class Persoana {
     //incapsulare = conceptul prin care excludem anumite proprietati/metode
     //conceptul se poate aplica la orice nivel de clase(parinte sau copil)
 
+    //polimorfism = conceptul prin care o metoda poate avea implementari diferite
+    //este de doua feluri : static (overload) si dinamic (override)
+    //dinamic = intr-o ierarhie de clase obtinute prin mostenire o metoda poate avea implementari diferite
+    //polimorfismul dinamic se regaseste doar cand este aplicat conceptul de mostenire
+
+    // polimorfismul static = actiunea prin care putem avea metode cu acealasi nume, insa diferentierea fiind facuta prin
+    //numar/tip parametrii
+
+
     private String nume;
     private String prenume;
     private int varsta;
@@ -34,6 +43,13 @@ public class Persoana {
         System.out.println("Sexul persoanei este : " + sex);
         System.out.println("Adresa persoanei este : " + adresa);
 
+
+    }
+
+    // polimorfism dinamic
+
+    public void mananca (){
+        System.out.println("Persoana mananca cand ii este foame.");
 
     }
         public String getNume() {

@@ -26,6 +26,9 @@ public class Student extends Persoana {
         System.out.println("Este bursier? " + bursa);
         System.out.println("In ce an este studentul? : " + an);
 
+    }
+    public void mananca (){
+        System.out.println("Studentul mananca in pauza sau dupa cursuri.");
 
     }
 
