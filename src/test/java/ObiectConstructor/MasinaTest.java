@@ -1,12 +1,12 @@
-package ObiectConstructor;
-
-import org.testng.annotations.Test;
-import tema1.Masina;
-
-import java.util.Arrays;
-
-public class MasinaTest {
-    @Test
+//package ObiectConstructor;
+//
+//import org.testng.annotations.Test;
+//import tema1.Masina;
+//
+//import java.util.Arrays;
+//
+//public class MasinaTest {
+//    @Test
 
 //    public void testMasinaMethod() {
 //        Masina Dacia = new Masina("Dacia", "Logan", 2015, "alb",
@@ -27,9 +27,6 @@ public class MasinaTest {
 //        viitoare1.calculImpozit();
 //        System.out.println();
 
-
-
-
-}
+//}
 
 

@@ -124,22 +124,22 @@ public class Masina {
         // nume prenume echipa, capitan sau nu, bonus de performanta pe langa salariu in functie de sport pozitie performanta
 
 
-    public void calculPret(){...}
-
-    public void calculReducere(int procentReducere) {
-        pretFinal =((100-procentReducere)*pretFinal)/100;
-
-
-        System.out.println("S-a aplicat o reduicere de " + procentReducere + " din pretul final.");
-        System.out.println("Pretul finl cu reducere este : " + pretFinal);
-
-
-
-
-    }
-
-    }
-
+//    public void calculPret(){...}
+//
+//    public void calculReducere(int procentReducere) {
+//        pretFinal =((100-procentReducere)*pretFinal)/100;
+//
+//
+//        System.out.println("S-a aplicat o reduicere de " + procentReducere + " din pretul final.");
+//        System.out.println("Pretul finl cu reducere este : " + pretFinal);
+//
+//
+//
+//
+//    }
+//
+//    }
+//
 
 
 

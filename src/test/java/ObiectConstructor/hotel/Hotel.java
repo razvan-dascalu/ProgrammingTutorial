@@ -39,7 +39,7 @@ public class Hotel {
             System.out.println("Numele hotelului este : " +nume);
             System.out.println("Strada hotelului este : " +adresa);
             System.out.println("Tara hotelului este : " + tara);
-            System.out.println("Numar stele hotel : " +oras;
+            System.out.println("Numar stele hotel : " +oras);
             System.out.println("Numar camere : " + numarCamere);
             System.out.println("Mic dejun inclus : " +micDejun);
             System.out.println("Numar etaje : " + numarEtaje);
